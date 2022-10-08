@@ -1,0 +1,22 @@
+{
+  "name": "simongame-javascript-jquery",
+  "version": "1.0.0",
+  "description": "This is my SimonGame.",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shahedsaadi/Simon-Game.git"
+  },
+  "author": "Shahed.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shahedsaadi/Simon-Game/issues"
+  },
+  "homepage": "https://github.com/shahedsaadi/Simon-Game#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
