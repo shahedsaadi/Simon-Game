@@ -14,5 +14,6 @@ This is an implementation of the famous Simon game. The game starts with a serie
 
 #### To start the game:
 
+- Run npm install.
 - Run node app.js.
 - Visit the link http://localhost:3000/
